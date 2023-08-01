@@ -13,7 +13,7 @@ class Aplicacion(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
         self.title("Cactours La musica en tu camino")
-        self.geometry("1200x800")
+        self.geometry("1200x800+400+300")
         self.resizable(True, True)
         self.inicializar()
         self.cambiar_frame(self.vista_inicio)
@@ -35,10 +35,11 @@ class Aplicacion(tk.Tk):
 
     def ajustar_frame(self, frame):
         frame.grid(row=0, column=0, sticky="nsew")
+        #self.config(bg="#2F242C")
 
     def cambiar_frame(self, frame_destino):
         frame_destino.tkraise()
-
+        #self.config(bg="#2F242C")
 
 if __name__ == "__main__":
     app = Aplicacion()

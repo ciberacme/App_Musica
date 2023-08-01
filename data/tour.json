@@ -1,0 +1,37 @@
+[
+    {
+        "evento": "Aniversario de Tartagal",
+        "artista": "El Chaquenio Palavecino",
+        "genero": "Folklore",
+        "lugar": "Tartagal",
+        "fecha": "13-06-2024"
+    },
+    {
+        "evento": "Aniversario de los Nocheros",
+        "artista": "Jorge Rojas",
+        "genero": "Folklore",
+        "lugar": "Estadio Delmi - Salta",
+        "fecha": "10-12-2023"
+    },
+    {
+        "evento": "Aniversario de San Pedro",
+        "artista": "Lazaro Caballero",
+        "genero": "Folklore",
+        "lugar": "San Pedro de Jujuy",
+        "fecha": "10-01-2024"
+    },
+    {
+        "evento": "Aniversario de las Termas",
+        "artista": "Los Manseros",
+        "genero": "Folklore",
+        "lugar": "Las Termas de Rio Hondo",
+        "fecha": "10-01-2024"
+    },
+    {
+        "evento": "Festividades de los Valles",
+        "artista": "Canto 4",
+        "genero": "Folklore",
+        "lugar": "Tafi del valle",
+        "fecha": "15-02-2024"
+    }
+]
