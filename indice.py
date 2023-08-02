@@ -3,6 +3,7 @@ import tkinter as tk
 from tkinter import *
 from PIL import ImageTk, Image
 
+
 root = Tk()
 root.title('Bienvenidos al Cactus World Tour')
 #root.iconbitmap('/img/icono.ico')

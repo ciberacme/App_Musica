@@ -11,12 +11,12 @@ class VistaPrincipal:
         self.frame_mapa = tk.Frame(self.root, width=600, height=600)
         self.frame_mapa.pack(side='right')
 
-        self.frame_locales = tk.Frame(self.root, width=300, height=600)
+        self.frame_locales = tk.Frame(self.root, width=600, height=600)
         self.frame_locales.pack(side='left', fill='both', expand=True)
 
         # Placeholder para el mapa
         self.mapa = TkinterMapView(self.frame_mapa, width=600, height=600, corner_radius=0)
-        self.mapa.set_position(-24.77616437851034, -65.41079411004006)
+        self.mapa.set_position(-26.07233848230985, -65.97287966730136)
         self.mapa.set_zoom(16)
         self.mapa.pack(side='right')
 

@@ -1,38 +1,38 @@
 [
     {
         "id" : 1,
-        "latitud": -24.7761,
-        "longitud": -65.4093,
-        "direccion": "O'Higgins 575"
+        "latitud": -24.77598760468463, 
+        "longitud": -65.423279205157434,
+        "direccion": "Estadio Delmi"
     },
     {
         "id" : 2,
-        "latitud": -24.7778,
-        "longitud": -65.4114,
-        "direccion": "Balcarce 999"
+        "latitud": -22.24919620445971,
+        "longitud": -64.96215034505161,
+        "direccion": "Santa Victoria"
     },
     {
         "id" : 3,
-        "latitud": -24.7746,
-        "longitud": -65.4117,
-        "direccion": "12 de Octubre 756"
+        "latitud": -22.517227406958423,
+        "longitud": -63.80764572230693,
+        "direccion": "Ferrocarril de Tartagal"
     },
     {
         "id" : 4,
-        "latitud": -24.7763,
-        "longitud": -65.4096,
-        "direccion": "Bartolomé Mitre 1086"
+        "latitud": -24.778510197694622,
+        "longitud": -65.422207649165,
+        "direccion": "Estadio Central Norte"
     },
     {
         "id" : 5,
-        "latitud": -24.7750,
-        "longitud": -65.4092,
-        "direccion": "12 de Octubre 581"
+        "latitud": -26.809861823808202,
+        "longitud": -65.19836573559803,
+        "direccion": "Estadio Atletico Tucuman"
     },
     {
         "id" : 6,
-        "latitud": -24.7758,
-        "longitud": -65.4138,
-        "direccion": "O'Higgins 903"
+        "latitud": -22.51334114836924,
+        "longitud": -63.791032541836955,
+        "direccion": "Club Atletico Independiente - Tartagal"
     }
 ]

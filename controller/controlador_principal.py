@@ -21,7 +21,7 @@ class ControladorPrincipal:
         
     def cargar_imagenes(self):
         for local in self.locales:
-            imagen = ImageTk.PhotoImage(Image.open(f"views1/images/{local.imagen}").resize((200, 200)))
+            imagen = ImageTk.PhotoImage(Image.open(f"views1/images/{local.imagen}").resize((400, 400)))
             self.imagenes.append(imagen)
 
     def cargar_marcadores(self):
@@ -34,9 +34,9 @@ class ControladorPrincipal:
     def seleccionar_local(self, event):
         # Obtiene el índice del elemento seleccionado
         indice_seleccionado = self.vista.lista_locales.curselection()
+
         # Obtiene el local seleccionado
         local_seleccionado = self.locales[indice_seleccionado[0]]
-        
         ubicacion_seleccionada = Ubicacion(0, 0, 0, "")
         
         # Busca la ubicación correspondiente al local seleccionado

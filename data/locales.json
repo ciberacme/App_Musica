@@ -1,31 +1,31 @@
 [
     {
-        "nombre": "El Buen Gusto",
+        "nombre": "Estadio Delmi",
         "imagen": "image_1.png",
         "id_ubicacion": 1
     },
     {
-        "nombre": "La Monumental",
+        "nombre": "Santa Victoria",
         "imagen": "image_2.png",
         "id_ubicacion": 2
     },
     {
-        "nombre": "La 12",
+        "nombre": "Ferrocarril de Tartagal",
         "imagen": "image_3.png",
         "id_ubicacion": 3
     },
     {
-        "nombre": "Donatello",
+        "nombre": "Estadio Central Norte",
         "imagen": "image_4.png",
         "id_ubicacion": 4
     },
     {
-        "nombre": "Lo del Negro Copa",
+        "nombre": "Estadio Atletico Tucuman",
         "imagen": "image_5.png",
         "id_ubicacion": 5
     },
     {
-        "nombre": "Pizza Mara",
+        "nombre": "CAI - Tartagal",
         "imagen": "image_6.png",
         "id_ubicacion": 6
     }
